@@ -1,0 +1,6 @@
+* Paquete ahtranspas.sty
+
+- Estas transparencias han sido preparadas con *LaTeX*,
+- usando el paquete *beamer* y su tema *metropolis*,
+- haciendo uso del estilo de Herranz *ahtranspas.sty*.
+- Conviene saber que uso la distribución de LaTeX *TeX Live* /a full/ (paquete *texlive-full* en Debian/Ubuntu)
